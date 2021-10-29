@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+}
+div {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    opacity: calc(50%);
+}
